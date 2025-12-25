@@ -39,8 +39,3 @@ The website replicates the core layout and visual sections of Udemy, including c
 - HTML5  
 - CSS3 (Flexbox & Grid)
 
-## 🔹 Project Structure
-├── index.html
-├── style.css
-└── assets/
-└── images/
